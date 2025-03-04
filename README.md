@@ -1,6 +1,8 @@
 # CV_Multimode
 personal learning process
-▎阶段一：核心基础强化（Week 1-2）
+▎
+
+阶段一：核心基础强化（Week 1-2）
 目标：夯实Python编程、算法与数学基础，掌握CV核心模型与PyTorch实战
 
 1. Python进阶与算法（Days 1-7）
